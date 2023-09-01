@@ -4,7 +4,7 @@ const { Given, When, Then } = require('@cucumber/cucumber');
 const api = require('../../api/pages');
 const orderData = require('../../data/orderData');
 
-Given('a sample order', function () {
+Given('user have valid authentication', function () {
 
 });
 
