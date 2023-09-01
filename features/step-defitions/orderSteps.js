@@ -8,7 +8,7 @@ Given('user have valid authentication', function () {
 
 });
 
-When('I process the order', async function () {
+When('user process the order', async function () {
   processedOrder = await api.processOrder(orderData);
 });
 

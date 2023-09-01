@@ -60,4 +60,3 @@ report:
 ## Answer the Question
 1. To make sure this project scalable and easy to maintenance I prefer use cucumber so we can reuse step defitions.
 2. We just have to adjust the scenario and run the automation, let's say we use Xray or other Test case managment which can export .feature file so we  import from test case menagement and run it on pipeline, if you want to adjust value of product just change it in test case management, no need to code or Merge request.
-3. 
