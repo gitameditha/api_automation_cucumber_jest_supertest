@@ -6,4 +6,3 @@ Feature: Order Processing
     Then the order status should be updated
     And the last updated timestamp should be updated
 
-  # More scenarios can be added here
